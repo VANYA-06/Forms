@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+}
+
+.name{
+    background-color: beige;
+}
+.email{
+    background-color: beige;
+}
+.password{
+    background-color: beige;
+    margin-left: 4px;
+}
+
+.age{
+    background-color: beige;
+}
+.message{
+    background-color: beige;
+}
+.btn{
+    background-color: rgb(249, 219, 155);
+}
